@@ -1,6 +1,7 @@
 # lanchat
 CMD Lan Chat Using Shared Folder Across Different Computers
 
+#### Start the Program Using Chat.cmd
 
 #### LAN chat works with both Wired and Non Wired Local Networks and The Files Need to Be in a Shared Local File
 
